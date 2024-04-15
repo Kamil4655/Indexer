@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\bin\Debug\net6.0\TeacherWriteByUlvi.exe
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\bin\Debug\net6.0\TeacherWriteByUlvi.deps.json
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\bin\Debug\net6.0\TeacherWriteByUlvi.runtimeconfig.json
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\bin\Debug\net6.0\TeacherWriteByUlvi.dll
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\bin\Debug\net6.0\TeacherWriteByUlvi.pdb
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.dll
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\refint\TeacherWriteByUlvi.dll
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.pdb
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\TeacherWriteByUlvi.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\TeacherWriteByUlvi\TeacherWriteByUlvi\obj\Debug\net6.0\ref\TeacherWriteByUlvi.dll

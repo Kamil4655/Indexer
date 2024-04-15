@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|c:\\users\\kamil\\desktop\\teacherwritebysabir\\teacherwritebysabir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|solutionrelative:teacherwritebysabir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|c:\\users\\kamil\\desktop\\teacherwritebysabir\\teacherwritebysabir\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|solutionrelative:teacherwritebysabir\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|c:\\users\\kamil\\desktop\\teacherwritebysabir\\teacherwritebysabir\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F621D6-1B2C-45AB-8BED-728C3D96836C}|TeacherWriteBySabir\\TeacherWriteBySabir.csproj|solutionrelative:teacherwritebysabir\\exceptions\\wronginputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Exceptions\\WrongInputException.cs",
+              "RelativeDocumentMoniker": "TeacherWriteBySabir\\Exceptions\\WrongInputException.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Exceptions\\WrongInputException.cs",
+              "RelativeToolTip": "TeacherWriteBySabir\\Exceptions\\WrongInputException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:04:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "TeacherWriteBySabir\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Models\\Person.cs",
+              "RelativeToolTip": "TeacherWriteBySabir\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:03:51.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Program.cs",
+              "RelativeDocumentMoniker": "TeacherWriteBySabir\\Program.cs",
+              "ToolTip": "C:\\Users\\Kamil\\Desktop\\TeacherWriteBySabir\\TeacherWriteBySabir\\Program.cs",
+              "RelativeToolTip": "TeacherWriteBySabir\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:00:05.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

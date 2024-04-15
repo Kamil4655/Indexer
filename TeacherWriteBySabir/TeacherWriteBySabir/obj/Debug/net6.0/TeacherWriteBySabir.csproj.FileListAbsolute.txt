@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\bin\Debug\net6.0\TeacherWriteBySabir.exe
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\bin\Debug\net6.0\TeacherWriteBySabir.deps.json
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\bin\Debug\net6.0\TeacherWriteBySabir.runtimeconfig.json
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\bin\Debug\net6.0\TeacherWriteBySabir.dll
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\bin\Debug\net6.0\TeacherWriteBySabir.pdb
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.dll
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\refint\TeacherWriteBySabir.dll
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.pdb
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\TeacherWriteBySabir.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\TeacherWriteBySabir\TeacherWriteBySabir\obj\Debug\net6.0\ref\TeacherWriteBySabir.dll
